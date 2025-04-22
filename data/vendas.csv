@@ -1,0 +1,19 @@
+data, produto, quantidade, valor, status
+01/01/2022, Produto A, 10, 100.00, entregue
+01/01/2022, Produto B, 5, 50.00, pendente
+01/01/2022, Produto C, 2, 20.00, entregue
+01/01/2022, Produto D, 1, 10.00, pendente
+01/01/2022, Produto E, 1, 10.00, entregue
+01/01/2022, Produto F, 1, 10.00, entregue
+01/01/2022, Produto G, 1, 10.00, entregue
+01/01/2022, Produto H, 1, 10.00, pendente
+01/01/2022, Produto I, 1, 10.00, entregue
+01/01/2022, Produto J, 1, 10.00, entregue
+01/01/2022, Produto K, 1, 10.00, entregue
+01/01/2022, Produto L, 1, 10.00, pendente
+01/01/2022, Produto M, 1, 10.00, entregue
+01/01/2022, Produto N, 1, 10.00, entregue
+01/01/2022, Produto O, 1, 10.00, pendente
+01/01/2022, Produto P, 1, 10.00, entregue
+01/01/2022, Produto Q, 1, 10.00, entregue       
+
