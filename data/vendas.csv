@@ -1,19 +1,20 @@
-data, produto, quantidade, valor, status
-01/01/2022, Produto A, 10, 100.00, entregue
-01/01/2022, Produto B, 5, 50.00, pendente
-01/01/2022, Produto C, 2, 20.00, entregue
-01/01/2022, Produto D, 1, 10.00, pendente
-01/01/2022, Produto E, 1, 10.00, entregue
-01/01/2022, Produto F, 1, 10.00, entregue
-01/01/2022, Produto G, 1, 10.00, entregue
-01/01/2022, Produto H, 1, 10.00, pendente
-01/01/2022, Produto I, 1, 10.00, entregue
-01/01/2022, Produto J, 1, 10.00, entregue
-01/01/2022, Produto K, 1, 10.00, entregue
-01/01/2022, Produto L, 1, 10.00, pendente
-01/01/2022, Produto M, 1, 10.00, entregue
-01/01/2022, Produto N, 1, 10.00, entregue
-01/01/2022, Produto O, 1, 10.00, pendente
-01/01/2022, Produto P, 1, 10.00, entregue
-01/01/2022, Produto Q, 1, 10.00, entregue       
+produto, categoria, quantidade, venda
+arroz, alimenticio, 10, 20
+feijao, alimenticio, 10, 15
+carne, alimenticio, 20, 30
+detergente, limpeza, 10, 5
+shampoo, limpeza, 5, 20
+macarrao, alimenticio, 20, 25
+pipoca, alimenticio, 10, 10
+sabao, higiene, 5, 10
+alface, vegetal, 10, 10
+batata, vegetal, 10, 10
+coca-cola, bebida, 10, 10
+pepsi, bebida, 10, 10
+fanta, bebida, 10, 10
+refrigerante, bebida, 10, 10
+coxinha, alimenticio, 10, 10
+pao, alimenticio, 10, 10
+manteiga, alimenticio, 10, 10
+      
 
